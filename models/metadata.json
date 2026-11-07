@@ -1,0 +1,25 @@
+{
+  "features": [
+    "PM2.5",
+    "PM10",
+    "NO",
+    "NO2",
+    "NOx",
+    "NH3",
+    "CO",
+    "SO2",
+    "O3",
+    "Benzene",
+    "Toluene",
+    "Xylene",
+    "City",
+    "Season"
+  ],
+  "target": "AQI",
+  "model": "RandomForestRegressor pipeline",
+  "random_state": 42,
+  "train_rows": 19880,
+  "test_rows": 4970,
+  "data_file": "C:\\Users\\shaik\\Desktop\\mlops1\\aqi_mlops_labwise\\data\\city_day.csv",
+  "data_sha256": "0d84b21c3e4878bbad8df362f2ab05f61ad959538dddf5918e714077ed3c1847"
+}

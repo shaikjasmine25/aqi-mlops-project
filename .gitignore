@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vscode/
+.env
+logs/
+artifacts/
+aqi_mlops_artifacts/
+models/*.joblib
+production/*.joblib
+deployment/models/*.joblib

@@ -1,0 +1,5 @@
+{
+  "minimum_r2": 0.0,
+  "random_state": 42,
+  "test_size": 0.2
+}
