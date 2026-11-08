@@ -1,6 +1,6 @@
 # Air Quality Prediction MLOps — Lab-wise Programs
 
-This is the AQI project organized into individually executable numbered lab programs. Each lab has its own Python file under `labs/`; do not copy the churn prediction code into this AQI project. The AQI task remains a **regression** task, so evaluation uses RMSE, MAE and R².
+This is the AQI project organized into individually executable numbered lab programs. Each lab has its own Python file under `labs/`; 
 
 ## 1. Setup in VS Code (Windows)
 
